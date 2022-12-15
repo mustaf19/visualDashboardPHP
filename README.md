@@ -11,3 +11,6 @@ Functionalities:
 1. Displays all data from conencted database.
 2. Filtering System --> Filter out specific data for various fields to instantly show on charts and graphs and hence, easy to compare between data.
 3. Easy filtering and unfilteration.
+
+## We can click on tags to unfilter.
+![screenshot1 PHP](https://user-images.githubusercontent.com/54412707/207797897-3876e646-0643-4326-8556-3a120126b852.jpg)
