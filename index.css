@@ -1,0 +1,37 @@
+body{
+	background-color: wheat;
+	/* margin: 10px; */
+}
+
+.relevanceChartBox,.regionChartBox,.sectorChartBox,.pestleChartBox,.intensityChartBox{
+	border: 1px solid white;
+	border-radius: 5px;
+	height: auto;
+	margin: 10px;
+	display: block;
+	background-color: white;
+	box-shadow: 10px 10px 50px rgb(255, 139, 139);
+	padding: 20px;
+}
+
+.chartBox{
+	display: grid;
+	grid-template-columns: 50% 50%;
+	/* grid-gap: 30px; */
+}
+
+.intensityChartBox{
+	grid-column: 1/-1;
+}
+.pestleChartBox{
+	grid-column: 1/-1;
+}
+.regionChartBox{
+	grid-column: 1/-1;
+}
+
+@media only screen and (max-width: 750px) {
+	.chartBox{
+		grid-template-columns: 100%;
+	}
+  }
