@@ -1,7 +1,9 @@
 # visualDashboardPHP
 visual Dashboard using php, MySQL, HTML, CSS, Javascript
 
-```summary-> Data from Database| Visualize for differnt fields | Bubble Click | data filetration```
+```
+summary-> Data from Database| Visualize for differnt fields | Bubble Click | data filtration
+```
 Hello, 
 This is a visual dashboard that I did as an assignment for an internship. 
 
